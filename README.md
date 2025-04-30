@@ -1,16 +1,24 @@
-## Hi there 👋
+YOUR_GITHUB_USERNAME@github ---
+. OS: ......................... Windows 11
+. IDE: ........................ Python IDLE, VS Code, Netbeans IDE
 
-<!--
-**AdityaGupta0001/AdityaGupta0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages.Programming: ........ C++, Python, JavaScript
+Languages.Computer: ........... HTML, CSS, TailwindCSS, SQL, JSON
+Languages.Real: ............... English, Hindi
 
-Here are some ideas to get you started:
+Databases: .................... MySQL, PostgreSQL, MongoDB
+Frameworks: .................. Streamlit, Ultralytics, OpenCV, ExpressJS, ReactJS, ViteJS
+Tools: ........................ Git, Postman, AWS EC2, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies.Software: ............. Full stack developement, Data analysis, ML Modelling
+Hobbies.Hardware: ............. Arduino, NodeMCU, Raspberry Pi
+Hobbies.Creative: ............. Music Production (FL Studio, Cakewalk), Video Editing (DaVinci Resolve, Filmora X)
+
+- Contact ---
+. Email.Personal: ............ adityag860libra@gmail.com
+. LinkedIn: .................. aditya-gupta-475328252
+
+- GitHub Stats --- [Note: Static text - see dynamic images below]
+. Repos: ...................... [Number] | Stars: .......... [Number]
+. Commits: .................... [Number] | Lines of Code: .. [Approx. Number]
+. Most Used Languages: ......... [See dynamic card below]
