@@ -1,1 +1,1 @@
-<img src="readme.svg" alt="Alt text for your SVG">
+<img src="./readme.svg" alt="Alt text for your SVG">
